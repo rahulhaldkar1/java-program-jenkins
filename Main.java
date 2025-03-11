@@ -8,6 +8,8 @@ public class Main {
         System.out.println(new Date(0));
         System.out.println("Connected to Git");
         System.out.println("Added one more file");
+        Student student = new Student();
+        System.out.println(student);
 
     }
 
