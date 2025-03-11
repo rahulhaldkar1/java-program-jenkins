@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Today is Monday");
         System.out.println(new Date(0));
         System.out.println("Connected to Git");
+        System.out.println("Added one more file");
 
     }
 
