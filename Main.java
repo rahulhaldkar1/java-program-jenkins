@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Connected to Git");
         System.out.println("Added one more file");
         Student student = new Student();
-        System.out.println(student);
+        student.sayHello();
 
     }
 
