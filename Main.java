@@ -6,6 +6,7 @@ public class Main {
         System.out.println("This is Java Program");
         System.out.println("Today is Monday");
         System.out.println(new Date(0));
+        System.out.println("Connected to Git");
 
     }
 
